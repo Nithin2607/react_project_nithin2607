@@ -16,7 +16,6 @@ function App() {
     
     <BrowserRouter>
     <div className="App">
-    <h1>Hello</h1>
      <>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
